@@ -1,0 +1,13 @@
+c:\users\dzaja\documents\visual studio 2013\Projects\GraRpg\GraRpg\bin\Debug\GraRpg.exe.config
+c:\users\dzaja\documents\visual studio 2013\Projects\GraRpg\GraRpg\obj\Debug\GraRpg.csprojResolveAssemblyReference.cache
+c:\users\dzaja\documents\visual studio 2013\Projects\GraRpg\GraRpg\bin\Debug\GraRpg.exe
+c:\users\dzaja\documents\visual studio 2013\Projects\GraRpg\GraRpg\bin\Debug\GraRpg.pdb
+c:\users\dzaja\documents\visual studio 2013\Projects\GraRpg\GraRpg\obj\Debug\GraRpg.exe
+c:\users\dzaja\documents\visual studio 2013\Projects\GraRpg\GraRpg\obj\Debug\GraRpg.pdb
+D:\programowanie\Visual Studio 2013\Projects\GraRpg\GraRpg\bin\Debug\GraRpg.exe.config
+D:\programowanie\Visual Studio 2013\Projects\GraRpg\GraRpg\bin\Debug\GraRpg.exe
+D:\programowanie\Visual Studio 2013\Projects\GraRpg\GraRpg\bin\Debug\GraRpg.pdb
+D:\programowanie\Visual Studio 2013\Projects\GraRpg\GraRpg\obj\Debug\GraRpg.csprojAssemblyReference.cache
+D:\programowanie\Visual Studio 2013\Projects\GraRpg\GraRpg\obj\Debug\GraRpg.csproj.CoreCompileInputs.cache
+D:\programowanie\Visual Studio 2013\Projects\GraRpg\GraRpg\obj\Debug\GraRpg.exe
+D:\programowanie\Visual Studio 2013\Projects\GraRpg\GraRpg\obj\Debug\GraRpg.pdb
